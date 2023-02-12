@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Group3CommissionSPref</string>
+    <string name="header">Agent\'s Commission Calculator</string>
+    <string name="name">Enter Name</string>
+    <string name="amount">Enter Real Estate principal amount per unit</string>
+    <string name="sold">Enter Number of Real Estate sold</string>
+    <string name="percentage">Enter Commission in percentage</string>
+    <string name="vat">Enter VAT (Constant 10%)</string>
+</resources>
